@@ -11,6 +11,12 @@ To get started:
 - Enter your **Username** and **Password**
 - Confirm your password
 - ✔️ You'll be redirected to the **Main Page** in default **Light Mode**
+## 🔐 Demo Credentials (for testing)
+
+You can use any username and password to log in.  
+Just make sure the "Confirm Password" field matches the "Password" field.
+
+⚠️ No actual authentication is used — this is a front-end simulation.
 
 ---
 
