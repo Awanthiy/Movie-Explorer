@@ -110,5 +110,6 @@ In mobile view:
 - ▶️ **Trailer access with a single click**
 
 ---
+Deployment Link - https://strong-crisp-03dbd1.netlify.app/
 
 Enjoy discovering your next favorite movie on **Movie Hub**! 🍿🎥✨
