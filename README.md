@@ -1,89 +1,108 @@
-🎬 Movie Hub Web App
-Welcome to Movie Explorer, a sleek and interactive movie discovery platform! 🌟 Before diving in, let’s take a tour of the awesome features you’ll find here:
+# 🎬 Movie Hub Web App
 
-🔐 Login First!
-To access the site:
+Welcome to **Movie Hub**, a sleek and interactive movie discovery platform! 🌟  
+This web app lets you explore, search, and save your favorite movies — all with an intuitive UI and mobile-friendly design.
 
-Enter your Username and Password
+---
 
-Confirm your password
+## 🔐 Login First!
 
-✔️ Once validated, you'll be directed to the Main Page in default Light Mode
+To get started:
+- Enter your **Username** and **Password**
+- Confirm your password
+- ✔️ You'll be redirected to the **Main Page** in default **Light Mode**
 
-🌐 Navigation Bar
-At the top of the page, you'll see:
+---
 
-🎥 Website Logo
+## 🌐 Navigation Bar
 
-🔥 Popular Tab – Scrolls to popular movies
+The top navigation includes:
+- 🎥 **Website Logo**
+- 🔥 **Popular Tab** – Scrolls to popular movies section
+- 🌟 **Top Rated Tab** – Scrolls to top-rated movies section
+- ❤️ **Favorites Icon** – Opens your favorited movies
+- 🌓 **Light/Dark Mode Switch** – Toggle themes instantly
 
-🌟 Top Rated Tab – Scrolls to top-rated movies
+---
 
-❤️ Favorites Icon – View your favorited movies
+## 📊 Main Sections
 
-🌓 Light/Dark Mode Toggle – Switch between light and dark themes seamlessly
+### 🔥 Popular Movies
+- Curated list of currently trending movies
 
-📊 Main Content Sections
-🔥 Popular Movies Section
-Displays a curated list of trending and popular movies
+### 🌟 Top Rated Movies
+- Highest-rated films across the platform
 
-🌟 Top Rated Movies Section
-Showcases the highest-rated films based on user and critic reviews
+➡️ Clicking **Popular** or **Top Rated** in the navbar takes you directly to these sections.
 
-Clicking Popular or Top Rated tabs navigates you directly to these sections!
+---
 
-🎞️ Movie Cards
-Each movie is displayed as an elegant card, including:
+## 🎞️ Movie Cards
 
-🎬 Poster
+Each movie appears as a stylish card featuring:
+- 🎬 Movie Poster
+- 📝 Movie Name
+- 📅 Release Date
+- ⭐ Decimal Rating
+- ✏️ Brief Description
+- ❤️ **Favorite Button** (top-right of the card)
+- ▶️ **YouTube Trailer Icon**
 
-📅 Release Date
+🖱️ **Hover** over the card to see detailed information like name, release date, rating, and description.
 
-⭐ Rating (e.g., 7.8)
+---
 
-✏️ Short Description
+## 🔍 Search, Sort & Filter
 
-❤️ Favorite Icon (Top right corner – click to add/remove from favorites)
+### 🔎 Search
+- Located at the top of the page
+- Search movies by **name**
 
-▶️ YouTube Trailer Icon – Watch the movie trailer instantly
+### 🧮 Sort
+- Sort by **Release Date**
+- Sort by **Rating**
+- Choose **Ascending** or **Descending** order
 
-🖱️ Hover on the card to reveal movie details like name, rating, and release date.
+### 🎯 Filter
+- Filter movies by rating:
+  - **7+**
+  - **6+**
+  - **5+**
 
-🔍 Search, Sort, and Filter
-🔎 Search Bar
-Located at the top — search movies by name
+---
 
-🧮 Sorting Options
-📆 Sort by Release Date
+## ❤️ Favorites
 
-⭐ Sort by Rating
+- Click the ❤️ icon to **add a movie to favorites**
+- Access all saved movies in the **Favorites Tab**
 
-↕️ Choose Ascending or Descending order
+---
 
-🎯 Filter by Rating
-🎚️ Filter movies with rating:
+## ▶️ Watch Trailers
 
-7+
+Click the ▶️ **YouTube icon** on any movie card to:
+- Instantly view the **official trailer** of that movie
 
-6+
+---
 
-5+
+## 📱 Mobile Responsive Design
 
-📱 Mobile Responsive Design
-Don't worry, Movie Hub works beautifully on mobile too! 🧡
+Fully responsive for smartphones and tablets!  
+In mobile view:
+- 🎯 Only the **search bar** and **movie cards** are displayed for a simplified experience
+- ✨ Movie details remain easy to view and interact with
 
-On smaller screens:
+---
 
-Only the Search Bar and Movie Cards are shown for a clean experience
+## 💡 Highlights
 
-🔍 Searching and viewing trailers is just as easy on mobile!
+- 🔐 **Secure login system**
+- 🎨 **Light/Dark mode toggle**
+- 📱 **Fully mobile responsive**
+- ❤️ **Favorites collection**
+- 🔎 **Smart search, sort, and filter features**
+- ▶️ **Trailer access with a single click**
 
-❤️ Favorites Page
-All your ❤️ favorited movies appear in the Favorites Tab
+---
 
-Easily access and manage your movie collection
-
-🎥 Watch Trailers
-Click the ▶️ YouTube Icon on a movie card to:
-
-Instantly open the official trailer in a pop-up or external player
+Enjoy discovering your next favorite movie on **Movie Hub**! 🍿🎥✨
